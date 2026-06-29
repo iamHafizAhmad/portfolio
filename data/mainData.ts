@@ -394,7 +394,7 @@ export const skillsData: Skill[] = [
   {
     name: 'OpenAI',
     id: 'openai',
-    category: 'AI',
+    category: 'AI & Data Science',
     field: 'LLMs',
     level: 'advanced',
     mostUsed: true,
@@ -402,7 +402,7 @@ export const skillsData: Skill[] = [
   {
     name: 'LangChain',
     id: 'langchain',
-    category: 'AI',
+    category: 'AI & Data Science',
     field: 'Frameworks',
     level: 'learning',
     mostUsed: true,
@@ -410,21 +410,21 @@ export const skillsData: Skill[] = [
   {
     name: 'Local LLMs',
     id: 'localllms',
-    category: 'AI',
+    category: 'AI & Data Science',
     field: 'LLMs',
     level: 'advanced',
   },
   {
     name: 'Hugging Face',
     id: 'huggingface',
-    category: 'AI',
+    category: 'AI & Data Science',
     field: 'LLMs',
     level: 'advanced',
   },
   {
     name: 'Streamlit',
     id: 'streamlit',
-    category: 'AI',
+    category: 'AI & Data Science',
     field: 'Prototyping',
     level: 'learning',
   },
