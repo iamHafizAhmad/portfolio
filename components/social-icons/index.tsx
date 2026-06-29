@@ -90,6 +90,12 @@ import {
   Locust,
   Fiber,
   Stripe,
+  RubyOnRails,
+  Electron,
+  ReactNative,
+  Ruby,
+  Shopify,
+  LocalLLM,
 } from './icons'
 
 import Image from 'next/image'
@@ -152,6 +158,12 @@ const components = {
   nextjs: NextJs,
   tailwind: Tailwind,
   typescript: TypeScript,
+  rails: RubyOnRails,
+  electron: Electron,
+  reactnative: ReactNative,
+  ruby: Ruby,
+  shopify: Shopify,
+  localllms: LocalLLM,
   shadcn: ShadCn,
   umami: Umami,
   mongodb: Mongodb,
